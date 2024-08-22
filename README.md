@@ -4,3 +4,5 @@ Para instalar el proyecto necesitas abrir la consola con la direccion de esta ca
 2) npx nodemon
 
 Nota: debe tener previamente instalado MongoDB y tener activo el servicio
+
+El ultimo paso es cambiar el nombre de las variables de entorno de ".env.example" a ".env"
